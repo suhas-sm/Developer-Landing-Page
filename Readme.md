@@ -10,10 +10,12 @@ Hope you like my project !! it works good in laptop screen if you are using desk
 
 ## 🚩 Demo
 ### Laptop View
-![page-img](./images/Laptop_screen.mp4)
+![page-img](./images/page_img_1.PNG)
 
 ### Mobile Screen View
-![responsive_screen-1](./images/Responsive_screen.mp4)
+![responsive_screen-1](./images/responsive_1.PNG)
+
+![responsive_screen-2](./images/responsive_2.PNG)
 
 
 Clone the project
