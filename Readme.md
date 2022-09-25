@@ -1,4 +1,4 @@
-# Developer Landing Page [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)]
+# Developer Landing Page
 
 This is basically a pretty large website having a standard of 5 pages for an imaginary developer. The project is made in HTML/CSS.
 Hope you like my project !! it works good in laptop screen if you are using desktop please zoom in or out that might work .
